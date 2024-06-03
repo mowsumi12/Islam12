@@ -1,6 +1,6 @@
 {
-    "name": "NAZRUL",
-    "version": "5.2.0",
+    "name": "EMon-BHai-Bot",
+    "version": "6.0.1",
     "description": "simple messenger bot",
     "main": "",
     "scripts": {
@@ -44,7 +44,7 @@
         "moment": "^2.29.1",
         "moment-timezone": "^0.5.41",
         "mqtt": "latest",
-        "nayan-media-downloader": "^2.1.8",
+        "nayan-media-downloader": "^2.2.7",
         "nayan-server": "^2.3.0",
         "node-cmd": "^5.0.0",
         "node-cron": "^3.0.2",
@@ -61,6 +61,7 @@
         "qrcode": "^1.5.3",
         "qrcode-reader": "^1.0.4",
         "querystring": "^0.2.1",
+        "rahad-media-downloader": "^2.1.12",
         "request": "latest",
         "requests": "^0.3.0",
         "semver": "latest",
